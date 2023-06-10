@@ -1,0 +1,16 @@
+{
+    "Anime_Cardcaptor Sakura": {
+        "Watch_Name": "Anime_Cardcaptor Sakura",
+        "Watch_Link": "https://anilist.co/anime/232/Cardcaptor-Sakura/",
+        "Watch_Rating": "8",
+        "Watch_Date": "10/06/2023",
+        "Watch_Condition": "Finished"
+    },
+    "naruto": {
+        "Watch_Name": "naruto",
+        "Watch_Link": "https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TCpPMapISjMwYPRiy0ssKi3JBwBSZQc4&q=naruto&oq=naru&aqs=chrome.1.69i57j46i131i340i433i512l3j46i175i199i512j0i131i433i512l4j0i271.2317j0j4&sourceid=chrome&ie=UTF-8",
+        "Watch_Rating": "8",
+        "Watch_Date": "10/06/2023",
+        "Watch_Condition": "watched"
+    }
+}
